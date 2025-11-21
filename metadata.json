@@ -1,0 +1,5 @@
+{
+  "name": "CipherNote",
+  "description": "A zero-knowledge encrypted note-sharing application. Encrypt notes locally, share secure links, and download decrypted content in multiple formats. Enhanced with Gemini for smart formatting.",
+  "requestFramePermissions": []
+}
